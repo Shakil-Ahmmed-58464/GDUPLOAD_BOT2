@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "2130162159:AAE-6Xaxmf9CMxUFrC230mPKMgK2RQ77zpc"
+    APP_ID = "15676377"
+    API_HASH = "bdef81fcec74abf0a807713617e7dd01"
+    DATABASE_URL = "postgres://srevlavcnmjiju:064f2af56a546f69e5b7dc6ed14b8d71cbb0fdd5abec57aff44e867287ca88e0@ec2-54-198-213-75.compute-1.amazonaws.com:5432/dbctdjhehlt5a9"
+    SUDO_USERS = "1474765931" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "123239948978-9mdi24lo36gk7biromu0c6k5qqd33po8.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/modapksky"
 
 
 class BotCommands:
@@ -39,7 +39,7 @@ class Messages:
         
         # Dont remove this ↓ if you respect developer.
          
-        "**Join Channel @lkhitech**"
+        "Created by @shakilahmmedwakil"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
